@@ -1,7 +1,7 @@
 {
   "name": "puppetlabs-mssql",
   "version": "0.2.1",
-  "author": "PuppetLabs",
+  "author": "ADTsys",
   "summary": "Puppet Labs Microsoft SQL Server Module",
   "license": "Apache-2.0",
   "source": "https://github.com/puppetlabs/puppetlabs-mssql",
